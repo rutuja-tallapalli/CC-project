@@ -1,5 +1,5 @@
 <?php
-$servername = "database-1.cmt1ygketgpr.us-east-1.rds.amazonaws.com";
+$servername = "blood-bank-db.cmt1ygketgpr.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "admin123";
 $dbname = "bloodbank";
